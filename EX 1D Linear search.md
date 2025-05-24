@@ -25,10 +25,10 @@ To write a python program for a search function with parameter list name and the
 ## Program:
 
 Program to implement a search function with parameter list name and the value to be searched.
-
+```
 Developed by: Vignesh R
 Register Number: 212222230172
-
+```
 ```PY
 def search(List1,n):
     for i in range(len(List1)):
